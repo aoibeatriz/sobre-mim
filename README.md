@@ -22,10 +22,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aoibeatriz/aoibeatriz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/beatriztsouto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
